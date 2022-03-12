@@ -1,7 +1,4 @@
-# CMPE 202 Fall 2021 Team Project
-team-project-four-horseman created by GitHub Classroom
-
-# Airline Booking Application
+# Airline Booking Application (Group Project)
 
 
 # Team Members:
